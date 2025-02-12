@@ -20,7 +20,6 @@ export default antfu(
       'node/no-path-concat': 'error',
       'node/process-exit-as-throw': 'error',
       'object-shorthand': ['error', 'properties'],
-      // 'perfectionist/sort-classes': ['error', { order: 'asc' }],
       'style/brace-style': ['error', '1tbs'],
       'style/no-extra-semi': 'error',
       'style/padding-line-between-statements': [

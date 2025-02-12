@@ -14,6 +14,7 @@ const DEFAULT_CONFIG = { order: ORDER, type: TYPE }
  */
 const RULES = {
   'perfectionist/sort-array-includes': ['error', DEFAULT_CONFIG],
+  'perfectionist/sort-classes': ['error', DEFAULT_CONFIG],
   'perfectionist/sort-enums': ['error', DEFAULT_CONFIG],
   'perfectionist/sort-exports': ['error', DEFAULT_CONFIG],
   'perfectionist/sort-interfaces': ['error', DEFAULT_CONFIG],
